@@ -173,7 +173,7 @@ To present the solution in a logical manner — from start to finish — the pat
 This final list represents the solved path for the maze and is what is used in the front-end
 implementation of our project.
 
-#### Beam Search Algorithm
+#### 2.3.3 Beam Search Algorithm
 Beam Search, on the other hand, introduces a different dimension to heuristic search by
 imposing a limit on the breadth of the search—specifically, the number of nodes considered
 at each level of the search (also known as beam width). This limitation is strategically
